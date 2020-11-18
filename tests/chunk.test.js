@@ -1,4 +1,4 @@
-const chunkArray = require("./chunk");
+const chunkArray = require("../utils/chunk");
 
 test("chunkArray function exists", () => {
   expect(chunkArray).toBeDefined();

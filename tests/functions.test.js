@@ -1,4 +1,4 @@
-const functions = require("./functions");
+const functions = require("../utils/functions");
 
 // beforeAll(() => initDatabase());
 // afterAll(() => closeDatabase());
